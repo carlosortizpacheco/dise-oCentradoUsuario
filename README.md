@@ -121,3 +121,12 @@ Esto significa que es mucho más fácil solucionar los problemas de nuestros pro
   - Puntos de dolor o painpoints
   - Oportunidades
 - Dos enlaces importantes [Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/) y [When and how to create customer journeys](https://www.nngroup.com/articles/customer-journey-mapping/)
+
+## Los 5 principios clave para Descubrir Insights
+Hay cinco principios clave en los que nos podemos basar para generar un buen insight:
+
+Contexto: Una simple observación de cómo se comportan las personas en una situación determinada. Qué piensan y qué sienten. Lo más importante es explicar qué están haciendo y tratando de lograr.
+Problema: Comprender las barreras que impiden que los consumidores logren lo que quieren con tu producto o servicio. Ubica cuándo un consumidor tiene un conflicto, tensión o frustración.
+¿Por qué? Explicar por qué algo está sucediendo de la manera en que sucede. Síntesis concisa del comportamiento observado. Conocer la razón por la que un consumidor se está comportando de una manera particular y por qué está sucediendo.
+Motivación: Descubrir las motivaciones que impulsan las acciones de las personas. Buscar tensiones en cuatro áreas clave: la filosófica, la emocional, la cognitiva y la ambiental para informar sus afirmaciones de percepción.
+Ideal: Describir el estado final o la situación deseada que el consumidor está buscando.
