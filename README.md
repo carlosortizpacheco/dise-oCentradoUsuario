@@ -130,3 +130,23 @@ Problema: Comprender las barreras que impiden que los consumidores logren lo que
 ¿Por qué? Explicar por qué algo está sucediendo de la manera en que sucede. Síntesis concisa del comportamiento observado. Conocer la razón por la que un consumidor se está comportando de una manera particular y por qué está sucediendo.
 Motivación: Descubrir las motivaciones que impulsan las acciones de las personas. Buscar tensiones en cuatro áreas clave: la filosófica, la emocional, la cognitiva y la ambiental para informar sus afirmaciones de percepción.
 Ideal: Describir el estado final o la situación deseada que el consumidor está buscando.
+
+## Brainstorming
+- El Brainstorming, también conocido como lluvia o tormenta de ideas, es una herramienta de trabajo grupal que facilita el surgimiento de nuevas ideas sobre un tema o problema determinado. La lluvia de ideas es una técnica de grupo para generar ideas originales en un ambiente relajado.
+
+## Matriz de priorización
+- Eje Y (Valor para el usuario)
+- Eje X (Esfuerzo Tecnológico
+- Lo que de más valor al usuario y sea tecnologicamente más fácil de hacer, entrará al MVP.
+
+## Sketching y wireframing
+- El Sketch es una representación rápida para ilustrar una idea.
+   - **¿Cuándo y cómo lo hacemos?**: Reuniones rápidas de trabajo, brainstorming.
+   - **Objetivo**: Transmitir una idea o concepto con rapidez y claridad.
+   - **Nivel de Fidelidad**: Baja fidelidad: Comunica la idea sin nivel de detalle.
+   - **Herramientas**: Lápiz y papel.
+- Los Wireframes son una referencia visual de la estructura de un sitio, definiendo detalladamente su contenido, distribución visual, componentes e interacciones, organizando así la información en la interfaz.
+   - **¿Cuándo y cómo lo hacemos?**: Antes de comenzar el diseño visual de las interfaces, validación rápida con usuarios, presentación a clientes, herramienta de comunicación entre UX, UI y desarrollo.
+   - **Objetivo**: Mostrar el contenido y comportamiento de la interfaz sin elementos gráficos. Para comunicarnos con equipos de otras áreas ajenas al diseño.
+   - **Nivel de Fidelidad**: Mediana fidelidad: Esquematiza el layout en que se mostrará el contenido, con componentes que describen el comportamiento de los features.
+   - **Herramientas**: Sketch, UXPIN, Figma, Adobe XD, Illustrator, Photoshop, entre otras.
